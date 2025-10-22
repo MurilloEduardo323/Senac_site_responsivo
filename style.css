@@ -136,6 +136,7 @@ footer {
 
 h2 {
     color: rgb(226, 225, 225);
+    ;
 }
 
 .animado {
@@ -147,5 +148,4 @@ h2 {
 
 .animado:hover {
     transform: scale(1.1);
-
 }
