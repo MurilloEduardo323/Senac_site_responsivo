@@ -8,6 +8,7 @@ header {
     width: 100%;
     margin: 0 auto;
     background-color: #011F45;
+    position: sticky ;
 }
 
 .interface {
@@ -155,4 +156,5 @@ h2 {
     width: 1000px;
     height: 600px;
     padding: 130px;
+
 }
