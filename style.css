@@ -51,7 +51,7 @@ a {
 .container {
     height: 100%;
     padding: 80px;
-    height: 90vh;
+    
 }
 
 .interface {
@@ -148,4 +148,11 @@ h2 {
 
 .animado:hover {
     transform: scale(1.1);
+}
+.video{
+    background-color: #011F45;
+    border-radius: 10px;
+    width: 1000px;
+    height: 600px;
+    padding: 130px;
 }
