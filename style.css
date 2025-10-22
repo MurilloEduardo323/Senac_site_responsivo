@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #011F45;
+}
+
+.interface {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+header .menu ul {
+    left: 100px;
+    list-style-type: none;
+}
+
+header .menu ul li {
+    display: inline-block;
+    margin: 0 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.meu-botao {
+  background-color: #007bff; 
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+.container_um {
+    height: 90vh;
+    background-color: #011F45;
+    height: 100%;
+    padding: 100px;
+}
+
+.container {
+    height: 100%;
+    padding: 80px;
+    height: 90vh;
+}
+
+.interface {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texto_um {
+    font-size: 30px;
+    color: white;
+}
+
+.texto_dois {
+    font-size: 20px;
+    color: black;
+    margin-left: 700px;
+}
+
+.container_projetos {
+    background-color: #011F45;
+    padding: 40px;
+}
+
+.texto_tres {
+    font-size: 20px;
+    margin-right: 500px;
+}
+
+.tranquilidade {
+    color: rgb(204, 204, 204);
+}
+
+.nasuaobra {
+    color: #011F45
+}
+
+.nossos_ultimos {
+    color: rgb(204, 204, 204);
+}
+
+.projetos_concluidos {
+    color: white;
+}
+
+section .menu ul {
+    left: 100px;
+    list-style-type: none;
+}
+
+section .menu ul li {
+    display: inline-block;
+    margin: 0px;
+}
+
+footer {
+    background-color: #011F45;
+    display: flex;
+    justify-content: center
+}
+
+.roda_pe {
+    padding: 80px;
+    display: inline-block
+    
+}
+.texto_foot{
+    font-size: 20px;
+    color: white;
+    
+}
+.texto_foot_dois{
+    font-size: 20px;
+    color: white;
+   
+}
